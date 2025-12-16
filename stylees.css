@@ -4,4 +4,11 @@ table {
     height: 100% vh;
     text-align: center;
     border-collapse: collapse;
+    th{
+        background-color: rgb(158, 127, 219);
+    }
+    td{
+        background-color: rgb(224, 208, 240);
+    }
+    
 }
